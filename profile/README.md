@@ -11,7 +11,7 @@ Our mission is to provide accessible, high-quality educational resources and too
 ### 1. [Unity Xero](https://coming.soon)
 Unity Xero is a dedicated package to get your schools off to a kickstart with all the latest technology and resources readily available.
 
-### 2. [Unity Xeon](link-to-project)
+### 2. [Unity Xeon](https://coming.soon)
 Unity Xeon is a dedicated management platform designed to provide ease with managing your school, providing direct access to your campus and related functions straight from the comfort of Discord.
 
 _For a complete list of our projects, please visit the [Repositories](https://github.com/Unity-Educational-Trust?tab=repositories) section._
