@@ -33,7 +33,7 @@ Join our community to stay updated and engage with other members:
 
 - [Discord Server](https://discord.com/invite/9vR4fn9URH)
 
-For support, please contact us at [contact@unityeducationaltrust.org](mailto:contact@unityeducationaltrust.org).
+For support, please contact us at [contact@unityeducationaltrust.org](mailto:contact@unityeducation.org.uk).
 
 ## License
 
